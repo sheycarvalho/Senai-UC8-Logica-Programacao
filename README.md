@@ -16,7 +16,7 @@
   <li>JavaScript</li>
 </ul>
 
-<h3Project Planning</h3>
+<h3>Project Planning</h3>
 <ul>
   <li>Describe and represent the sequence of logical steps required to perform a task in any system</li>
   <li>Apply programming techniques and tools for code development</li>
