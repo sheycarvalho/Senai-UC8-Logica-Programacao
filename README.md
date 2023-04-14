@@ -1,4 +1,4 @@
-<h1 align="center">Coding of a part registration system</h1>
+<h1 align="center">Coding of a parts registration system</h1>
 
 <p align="center">Project made using JavaScript by <b>Sheyenne de Morais Carvalho</b>
 
